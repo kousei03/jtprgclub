@@ -19,7 +19,7 @@ for i in range(0,boxes):
         boxes -= (2*i)+1
 for i in range(0,boxes):
     if (2*i)+1 <= boxes:
-        stack3 += 1
+        stack4 += 1
         boxes -= (2*i)+1
         
 if stack1>0:
